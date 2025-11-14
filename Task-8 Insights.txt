@@ -1,0 +1,6 @@
+Task-8 Insights
+
+1. West region consistently delivered the highest sales across all months.
+2. Technology category dominated overall sales, outperforming Furniture and Office Supplies.
+3. Sales showed a steady upward trend from January to June.
+4. East region performance lower but remained stable without major fluctuations.
